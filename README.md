@@ -1,5 +1,5 @@
 # ViperFX-RE-Releases
-ViPER4Android FX with Material You Redesign
+ViPER4Android FX with Material You Redesign  (README is WIP)
 
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-24%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/WSTxda/ViperFX-RE-Releases?color=blue&label=Release&style=flat-square)](https://github.com/WSTxda/ViperFX-RE-Releases/releases) [![Downloads](https://img.shields.io/github/downloads/WSTxda/ViperFX-RE-Releases/total?label=Downloads&logo=github&style=flat-square)](https://github.com/WSTxda/ViperFX-RE-Releases/releases)
  
