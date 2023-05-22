@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="65561" value="50" />
+    <int name="65560" value="20" />
+    <int name="65563" value="20" />
+    <int name="65562" value="10" />
+    <boolean name="65565" value="true" />
+    <int name="65564" value="100" />
+    <int name="65567" value="100" />
+    <int name="65566" value="300" />
+    <boolean name="65569" value="true" />
+    <int name="65568" value="400" />
+    <boolean name="65574" value="true" />
+    <int name="65573" value="1300" />
+    <int name="65576" value="100" />
+    <string name="65575">0</string>
+    <int name="65611" value="100" />
+    <boolean name="65578" value="true" />
+    <boolean name="65610" value="false" />
+    <int name="65577" value="600" />
+    <int name="65613" value="0" />
+    <int name="65612" value="100" />
+    <string name="65579">2</string>
+    <int name="65615" value="0" />
+    <boolean name="65538" value="true" />
+    <boolean name="65614" value="true" />
+    <int name="65617" value="20" />
+    <boolean name="65616" value="true" />
+    <int name="65619" value="50" />
+    <boolean name="65618" value="true" />
+    <boolean name="65583" value="true" />
+    <int name="65582" value="1" />
+    <int name="65585" value="0" />
+    <boolean name="65584" value="false" />
+    <int name="65587" value="0" />
+    <boolean name="65620" value="true" />
+    <int name="65543" value="0" />
+    <int name="65586" value="10" />
+    <int name="65622" value="80" />
+    <int name="65545" value="0" />
+    <int name="65588" value="70" />
+    <int name="65621" value="0" />
+    <boolean name="65544" value="false" />
+    <int name="65624" value="20" />
+    <string name="65547">ZUMREED Sfit.vdc</string>
+    <int name="65623" value="100" />
+    <boolean name="65546" value="true" />
+    <boolean name="65626" value="true" />
+    <int name="65625" value="50" />
+    <boolean name="65548" value="true" />
+    <boolean name="65581" value="false" />
+    <boolean name="36868" value="true" />
+    <int name="65580" value="450" />
+    <string name="65552">12.0;5.3;3.7;4.3;4.4;4.3;4.3;12.0;12.0;12.0;</string>
+    <boolean name="65551" value="true" />
+    <boolean name="65553" value="true" />
+    <int name="65555" value="200" />
+    <int name="65558" value="2000" />
+    <boolean name="65557" value="false" />
+    <boolean name="65559" value="false" />
+    <int name="65549;65550" value="100" />
+    <string name="65540;65541;65542">DTS Mode ((Z128K MP3)).irs</string>
+    <int name="65554;65556" value="200" />
+    <string name="65570;65571;65572">140;6200;40;60;10;80</string>
+</map>

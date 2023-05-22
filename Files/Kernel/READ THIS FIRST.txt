@@ -1,0 +1,5 @@
+IRSes in this pack *must be used with V4A 2.5.0.4 or above*
+
+Disable all other surround effects, including Dolby Atmos, V4A Field Surround, Differential Surround, Headphone Surround+ and Reverberation
+
+Open ViPER4Android while music is playing through your headphones and check the Driver Status and note down the Sample Rate (this will 90% of the time be 48000, otherwise 44100) and choose the IRSes with the corresponding number.

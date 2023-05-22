@@ -1,0 +1,7 @@
+Z128K MP3 ~ Z-Edition
+ZS128K MP3 ~ ZS-Edition
+
+ZS/HS-Edition:
+This is another version of the Z/H-Edition IRS that uses a different recording method.
+Advantage: Maybe closer to the real effect. 
+Disadvantage: Frequency response is less natural.
