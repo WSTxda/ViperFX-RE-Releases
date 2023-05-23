@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="viper4android.headphonefx.fidelity.clarity.enable" value="true" />
+    <string name="viper4android.headphonefx.convolver.kernel">DFX Hip Hop Modern.irs</string>
+    <string name="viper4android.headphonefx.fidelity.clarity.mode">0</string>
+    <string name="viper4android.headphonefx.fidelity.bass.gain">350</string>
+    <boolean name="viper4android.headphonefx.fidelity.bass.enable" value="true" />
+    <boolean name="viper4android.headphonefx.convolver.enable" value="true" />
+    <boolean name="viper4android.headphonefx.enable" value="true" />
+</map>

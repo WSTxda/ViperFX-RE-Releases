@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="viper4android.headphonefx.reverb.dry">50</string>
+    <string name="viper4android.headphonefx.convolver.kernel"></string>
+    <string name="viper4android.headphonefx.outvol">100</string>
+    <string name="viper4android.speakerfx.limiter">100</string>
+    <boolean name="viper4android.headphonefx.playbackgain.enable" value="true" />
+    <boolean name="viper4android.speakerfx.enable" value="false" />
+    <string name="viper4android.headphonefx.playbackgain.maxscaler">3000</string>
+    <string name="viper4android.headphonefx.reverb.roomwidth">0</string>
+    <string name="viper4android.headphonefx.reverb.damp">0</string>
+    <string name="viper4android.headphonefx.reverb.roomsize">0</string>
+    <string name="viper4android.headphonefx.playbackgain.volume">100</string>
+    <boolean name="viper4android.headphonefx.fireq.enable" value="false" />
+    <string name="viper4android.headphonefx.playbackgain.ratio">100</string>
+    <string name="viper4android.headphonefx.reverb.wet">0</string>
+    <string name="viper4android.headphonefx.fireq">0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;</string>
+    <boolean name="viper4android.speakerfx.spkopt.enable" value="true" />
+    <string name="viper4android.headphonefx.convolver.crosschannel">0</string>
+</map>

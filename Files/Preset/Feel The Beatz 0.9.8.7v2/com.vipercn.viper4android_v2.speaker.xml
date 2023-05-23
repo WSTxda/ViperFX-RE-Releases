@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="viper4android.headphonefx.reverb.dry">100</string>
+    <string name="viper4android.headphonefx.convolver.kernel">/storage/emulated/0/ViPER4Android/Kernel/Studer +3dB w NoiseReduction Updated.irs</string>
+    <string name="viper4android.headphonefx.outvol">150</string>
+    <string name="viper4android.speakerfx.limiter">80</string>
+    <boolean name="viper4android.headphonefx.playbackgain.enable" value="true" />
+    <string name="viper4android.headphonefx.fireq.custom">0.2;-0.7;-2.3;-0.1;3.0;3.7;2.7;6.1;8.4;8.4;</string>
+    <boolean name="viper4android.speakerfx.enable" value="true" />
+    <string name="viper4android.headphonefx.playbackgain.maxscaler">600</string>
+    <string name="viper4android.headphonefx.reverb.roomwidth">0</string>
+    <string name="viper4android.headphonefx.reverb.damp">20</string>
+    <string name="viper4android.headphonefx.reverb.roomsize">0</string>
+    <boolean name="viper4android.headphonefx.convolver.enable" value="true" />
+    <string name="viper4android.headphonefx.playbackgain.volume">100</string>
+    <boolean name="viper4android.headphonefx.fireq.enable" value="true" />
+    <string name="viper4android.headphonefx.playbackgain.ratio">300</string>
+    <string name="viper4android.headphonefx.reverb.wet">0</string>
+    <string name="viper4android.headphonefx.fireq">custom</string>
+    <boolean name="viper4android.headphonefx.reverb.enable" value="false" />
+    <string name="viper4android.headphonefx.convolver.crosschannel">0</string>
+    <boolean name="viper4android.speakerfx.spkopt.enable" value="false" />
+</map>

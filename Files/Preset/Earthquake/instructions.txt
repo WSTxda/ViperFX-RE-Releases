@@ -1,0 +1,1 @@
+ if youre using atmos set eq to open and surround virtualizer on and make sure you put the digital gain on -10.5 or -14 if you dont use atmos just load this profile in viper

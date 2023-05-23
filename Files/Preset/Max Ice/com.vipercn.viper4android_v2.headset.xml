@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="viper4android.headphonefx.outvol">110</string>
+    <string name="viper4android.ddcblock.3882280366">1.00151296758929,-1.99481841793539,0.993313549084902,1.99481841793539,-0.99482651667419,1.01112639472988,-1.89466290758494,0.902930748964291,1.89466290758494,-0.914057143694168,0.974517637658977,-1.64222183208174,0.777685954245222,1.64222183208174,-0.752203591904199,1.13105126526384,-1.46389317176252,0.695587478847393,1.46389317176252,-0.826638744111235,1.12058782311045,0.440878636071166,0.467070830931868,-0.440878636071166,-0.587658654042319,1.00139033109408,-1.99523902571045,0.993855532212239,1.99523902571045,-0.99524586330632,1.01025798296067,-1.90433254735145,0.910506974873374,1.90433254735145,-0.920764957834047,0.976352872947509,-1.67611352985621,0.793696973021479,1.67611352985621,-0.770049845968988,1.12123247320577,-1.52959439738254,0.718395066695196,1.52959439738254,-0.839627539900966,1.11232914702259,0.210917091278319,0.503569453028028,-0.210917091278319,-0.615898600050617</string>
+    <boolean name="viper4android.headphonefx.viperddc.enable" value="false" />
+    <boolean name="viper4android.headphonefx.playbackgain.enable" value="false" />
+    <string name="viper4android.ddcblock.105782144">1.0014855801704,-1.9949019429714,0.993434585803336,1.9949019429714,-0.994920165973734,0.97362549927231,-1.8788565356696,0.905849067344423,1.8788565356696,-0.879474566616733,0.970395069418003,-1.81977030202509,0.910903355250321,1.81977030202509,-0.881298424668324,1.11336065638526,-1.36936668178555,0.595328395584915,1.36936668178555,-0.708689051970179,1.21075492635125,1.22227445022536,0.247653137301075,-1.22227445022536,-0.458408063652327,1.00136515840656,-1.99531655424857,0.993966781085429,1.99531655424857,-0.995331939491994,0.975649422000996,-1.88819917782745,0.91307400837728,1.88819917782745,-0.888723430378276,0.97266912332958,-1.83818393780326,0.917747167058634,1.83818393780326,-0.890416290388214,1.10535239613858,-1.43783416633788,0.623916052237006,1.43783416633788,-0.72926844837559,1.19022404923815,1.06855694233138,0.320943670774811,-1.06855694233138,-0.511167720012959</string>
+    <string name="viper4android.headphonefx.fireq.custom">7.2;4.3;1.4;0.0;3.1;2.7;0.6;1.5;5.4;4.0;</string>
+    <string name="viper4android.ddcblock.1441921402">0.984302414513327,-1.92748282763023,0.943963211691842,1.92748282763023,-0.928265626205169,0.995479455570059,-1.94889837515571,0.960561720778278,1.94889837515571,-0.956041176348338,0.940753567748663,-1.68245837224463,0.845096150745492,1.68245837224463,-0.785849718494155,1.08638078999848,-1.58509008077505,0.691640345125332,1.58509008077505,-0.778021135123808,0.842072913540142,-0.48392471210738,0.436236437789204,0.48392471210738,-0.278309351329347,0.985535761725793,-1.93323904092867,0.948365979029156,1.93323904092867,-0.933901740754949,0.995839333447967,-1.95350010233968,0.96370137894437,1.95350010233968,-0.959540712392337,0.945092437807492,-1.71335956684702,0.856440423269388,1.71335956684702,-0.80153286107688,1.08006676113468,-1.62943293321613,0.714179983410007,1.62943293321613,-0.794246744544683,0.850765543000759,-0.613695153577603,0.467267135939527,0.613695153577603,-0.318032678940285</string>
+    <string name="viper4android.headphonefx.diffsurr.delay">500</string>
+    <string name="viper4android.headphonefx.fidelity.clarity.gain">50</string>
+    <string name="viper4android.headphonefx.fidelity.bass.mode">1</string>
+    <string name="viper4android.headphonefx.dynamicsystem.bass">33</string>
+    <boolean name="viper4android.headphonefx.vse.enable" value="false" />
+    <string name="viper4android.headphonefx.playbackgain.maxscaler">600</string>
+    <string name="viper4android.headphonefx.reverb.roomwidth">0</string>
+    <boolean name="viper4android.headphonefx.fidelity.clarity.enable" value="true" />
+    <string name="viper4android.headphonefx.dynamicsystem.coeffs">1000;6200;60;120;0;0</string>
+    <string name="viper4android.headphonefx.colorfulmusic.midimage">150</string>
+    <string name="viper4android.headphonefx.fidelity.clarity.mode">1</string>
+    <boolean name="viper4android.headphonefx.convolver.enable" value="false" />
+    <string name="viper4android.headphonefx.playbackgain.ratio">50</string>
+    <boolean name="viper4android.headphonefx.colorfulmusic.enable" value="false" />
+    <string name="viper4android.headphonefx.vhs.qual">0</string>
+    <string name="viper4android.headphonefx.fireq">custom</string>
+    <string name="viper4android.headphonefx.viperddc.device">3882280366</string>
+    <string name="viper4android.headphonefx.convolver.crosschannel">0</string>
+    <string name="viper4android.headphonefx.reverb.dry">50</string>
+    <string name="viper4android.headphonefx.convolver.kernel">/storage/emulated/0/ViPER4Android/Kernel/SRS_1_1_Normal_stereo.irs</string>
+    <boolean name="viper4android.headphonefx.fidelity.bass.enable" value="true" />
+    <string name="viper4android.headphonefx.fidelity.bass.freq">60</string>
+    <boolean name="viper4android.headphonefx.dynamicsystem.enable" value="true" />
+    <string name="viper4android.headphonefx.fidelity.bass.gain">150</string>
+    <string name="viper4android.headphonefx.colorfulmusic.coeffs">120;200</string>
+    <string name="viper4android.headphonefx.reverb.damp">0</string>
+    <string name="viper4android.headphonefx.reverb.roomsize">0</string>
+    <string name="viper4android.headphonefx.limiter">70</string>
+    <boolean name="viper4android.headphonefx.fireq.enable" value="false" />
+    <boolean name="viper4android.headphonefx.enable" value="true" />
+    <string name="viper4android.headphonefx.channelpan">0</string>
+    <string name="viper4android.headphonefx.playbackgain.volume">80</string>
+    <string name="viper4android.headphonefx.reverb.wet">0</string>
+    <string name="viper4android.headphonefx.cure.crossfeed">0</string>
+    <string name="viper4android.headphonefx.vse.value">0.6</string>
+</map>
