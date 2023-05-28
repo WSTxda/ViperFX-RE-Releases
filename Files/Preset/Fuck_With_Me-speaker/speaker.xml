@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="65640" value="100" />
+    <int name="65642" value="50" />
+    <string name="65591;65592;65593">TRacks Compression.irs</string>
+    <int name="65641" value="20" />
+    <boolean name="65589" value="true" />
+    <int name="65600" value="20" />
+    <boolean name="65643" value="true" />
+    <int name="65602" value="50" />
+    <int name="65601" value="10" />
+    <boolean name="65604" value="true" />
+    <boolean name="65603" value="true" />
+    <int name="65606" value="100" />
+    <int name="65628" value="100" />
+    <int name="65605" value="50" />
+    <boolean name="65627" value="false" />
+    <int name="65608" value="100" />
+    <int name="65607" value="400" />
+    <int name="65629" value="100" />
+    <boolean name="36868" value="true" />
+    <int name="65594" value="15" />
+    <string name="65596">4.5;4.5;3.5;1.2;1.0;0.5;1.4;1.75;3.5;2.5;</string>
+    <boolean name="65595" value="true" />
+    <boolean name="65631" value="true" />
+    <int name="65598" value="0" />
+    <int name="65630" value="0" />
+    <boolean name="65597" value="true" />
+    <boolean name="65633" value="true" />
+    <int name="65632" value="0" />
+    <int name="65599" value="0" />
+    <boolean name="65635" value="true" />
+    <int name="65634" value="20" />
+    <boolean name="65637" value="true" />
+    <int name="65636" value="50" />
+    <int name="65639" value="80" />
+    <int name="65638" value="0" />
+    <int name="65609" value="100" />
+</map>
