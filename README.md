@@ -11,7 +11,7 @@ ViPER4Android FX with Material You design
 >Magisk or KernelSU is required
 - Download driver module and flash in you device
 - Reboot device
-- Download and install ViperFX Redesign app
+- Download and install ViPER4Android FX Redesign app
 - Enjoy!
 
 **Download Driver Module**
@@ -20,7 +20,7 @@ ViPER4Android FX with Material You design
       alt='Get it on GitHub'
       height="80">](https://github.com/AndroidAudioMods/ViPER4Android/releases)
 
-**Download ViperFX Redesign**
+**Download ViPER4Android FX Redesign**
 
 [<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/GitHub.svg"
       alt='Get it on GitHub'
