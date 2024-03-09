@@ -35,3 +35,9 @@ ViPER4Android FX with Material You design and improvements
       height="80">](https://bit.ly/2lV0E6u) [<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/BMC.svg"
       alt='Donate with BMC'
       height="80">](https://www.buymeacoffee.com/wstxda)
+
+**Credits**
+
+- [Iscle](https://github.com/iscle) and [Martmists](https://github.com/Martmists-GH) for reverse-engineering work
+- [Thomas W.](https://github.com/pittvandewitt) and [Iscle](https://github.com/iscle) for development original app
+- [Neil A.](https://github.com/nie-drug) for helping me with components used in redesign
