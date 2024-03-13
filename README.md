@@ -2,9 +2,19 @@
 ViPER4Android FX with Material You design and improvements
 
 [![Platform](https://img.shields.io/badge/android-platform?style=for-the-badge&label=platform&labelColor=21262d&color=6e7681)](https://www.android.com) [![API](https://img.shields.io/badge/24%2B-level?style=for-the-badge&logo=android&logoColor=3cd382&label=API&labelColor=21262d&color=ff663b)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/WSTxda/ViperFX-RE-Releases?display_name=tag&style=for-the-badge&logo=github&labelColor=21262d&color=1f6feb)](https://github.com/WSTxda/ViperFX-RE-Releases/releases/latest) [![Downloads](https://img.shields.io/github/downloads/WSTxda/ViperFX-RE-Releases/total?style=for-the-badge&labelColor=21262d&color=238636)](https://github.com/WSTxda/ViperFX-RE-Releases/releases)
- 
-![alt text](https://raw.githubusercontent.com/WSTxda/ViperFX-RE-Releases/main/Images/Banner.svg)
-![alt text](https://raw.githubusercontent.com/WSTxda/ViperFX-RE-Releases/main/Images/Screenshots.png)
+
+<div style="width: 100%; overflow: hidden;">
+	<img src="https://raw.githubusercontent.com/WSTxda/ViperFX-RE-Releases/main/Images/Banner.svg" style="width: 100%;">
+</div>
+
+**Preview**
+
+<details>
+  <summary>Screenshots</summary>
+
+![screenshot](https://raw.githubusercontent.com/WSTxda/ViperFX-RE-Releases/main/Images/Screenshots.png)
+
+</details>
 
 **Installation**
 
@@ -38,6 +48,8 @@ ViPER4Android FX with Material You design and improvements
 
 **Credits**
 
-- [Iscle](https://github.com/iscle) and [Martmists](https://github.com/Martmists-GH) for reverse-engineering work
-- [Thomas W.](https://github.com/pittvandewitt) and [Iscle](https://github.com/iscle) for development original app
-- [Neil A.](https://github.com/nie-drug) for helping me with components used in redesign
+[Iscle](https://github.com/iscle) and [Martmists](https://github.com/Martmists-GH) for reverse-engineering work
+
+[Thomas W.](https://github.com/pittvandewitt) and [Iscle](https://github.com/iscle) for development original app
+
+[Neil A.](https://github.com/nie-drug) for helping me with components used in redesign
