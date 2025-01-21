@@ -51,3 +51,4 @@ ViPER4Android FX with Material You design and improvements
 - [Iscle](https://github.com/iscle) and [Martmists](https://github.com/Martmists-GH) for their reverse engineering work
 - [Thomas W.](https://github.com/pittvandewitt) and [Iscle](https://github.com/iscle) for developing the original application
 - [Project Material](https://t.me/projectmaterial) for assisting with components used in the redesign
+- [Aditya Raj](https://github.com/syntaxticsugr) by the ViPER4Android Presets repository, used as a download source in the application
