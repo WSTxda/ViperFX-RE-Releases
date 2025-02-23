@@ -5,7 +5,7 @@ ViPER4Android FX with Material You design with improvements and more features.
 
 <img src="https://raw.githubusercontent.com/WSTxda/ViperFX-RE-Releases/main/Images/Banner.svg" style="width: 100%;" alt="Banner">
 
-### Application preview
+## Application preview
 
 <details>
   <summary>Screenshots</summary>
@@ -14,7 +14,7 @@ ViPER4Android FX with Material You design with improvements and more features.
 
 </details>
 
-### How to install
+## How to install
 
 - Download the driver module and flash it to your device.
 - Reboot your device.
@@ -38,6 +38,14 @@ ViPER4Android FX with Material You design with improvements and more features.
       alt='Get it on Telegram'
       height="80">](https://t.me/WSTprojects)
 
+## More links
+
+### Translate to your language
+
+<a href="https://crowdin.com/project/viper-fx-redesign">
+  <img src="https://img.shields.io/badge/Crowdin-25292F.svg?style=for-the-badge&logo=Crowdin&logoColor=white" alt="Crowdin" style="width: 170px; height: auto;">
+</a>
+
 ### Donate
 
 [<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/PayPal.svg"
@@ -45,12 +53,6 @@ ViPER4Android FX with Material You design with improvements and more features.
       height="80">](https://bit.ly/2lV0E6u) [<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/BMC.svg"
       alt='Donate with BMC'
       height="80">](https://www.buymeacoffee.com/wstxda)
-
-### Translate to your language
-
-<a href="https://crowdin.com/project/viper-fx-redesign">
-  <img src="https://img.shields.io/badge/Crowdin-25292F.svg?style=for-the-badge&logo=Crowdin&logoColor=white" alt="Crowdin" style="width: 170px; height: auto;">
-</a>
 
 ### Special thanks
 
