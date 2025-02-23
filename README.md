@@ -30,7 +30,7 @@ ViPER4Android FX with Material You design with improvements and more features.
 > [!NOTE]
 > Rooted device is required, along with a module installer like Magisk, KernelSU, APatch, etc...
 
-### Download applicatiom
+### Download application
 
 [<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/GitHub.svg"
       alt='Get it on GitHub'
