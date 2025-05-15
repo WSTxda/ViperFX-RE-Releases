@@ -5,7 +5,7 @@ ViPER4Android FX with Material You design with improvements and more features.
 
 <img src="https://raw.githubusercontent.com/WSTxda/ViperFX-RE-Releases/main/Images/Banner.svg" style="width: 100%;" alt="Banner">
 
-## Application preview
+### Application preview
 
 <details>
   <summary>Screenshots</summary>
@@ -14,7 +14,7 @@ ViPER4Android FX with Material You design with improvements and more features.
 
 </details>
 
-## How to install
+### How to install
 
 - Download the driver module and flash it to your device.
 - Reboot your device.
@@ -23,7 +23,7 @@ ViPER4Android FX with Material You design with improvements and more features.
 
 ### Download driver module
 
-[<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/GitHub.svg"
+[<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/GitHub.svg"
       alt='Get it on GitHub'
       height="80">](https://github.com/WSTxda/ViPERFX_RE/releases)
 
@@ -32,9 +32,9 @@ ViPER4Android FX with Material You design with improvements and more features.
 
 ### Download application
 
-[<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/GitHub.svg"
+[<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/GitHub.svg"
       alt='Get it on GitHub'
-      height="80">](https://github.com/WSTxda/ViperFX-RE-Releases/releases) [<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/Telegram.svg"
+      height="80">](https://github.com/WSTxda/ViperFX-RE-Releases/releases) [<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/Telegram.svg"
       alt='Get it on Telegram'
       height="80">](https://t.me/WSTprojects)
 
@@ -48,9 +48,10 @@ ViPER4Android FX with Material You design with improvements and more features.
 
 ### Donate
 
-[<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/PayPal.svg"
+[<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/PayPal.svg"
       alt='Donate with PayPal'
-      height="80">](https://bit.ly/2lV0E6u) [<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/BMC.svg"
+      height="80">](https://bit.ly/2lV0E6u)
+[<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/BMC.svg"
       alt='Donate with BMC'
       height="80">](https://www.buymeacoffee.com/wstxda)
 
