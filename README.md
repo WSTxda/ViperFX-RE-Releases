@@ -1,3 +1,5 @@
+# Project discontinued. To continue using ViPER4Android, check out [this version](https://github.com/likelikeslike/ViPER4Android).
+
 # ViPER4Android FX Redesign (ViperFX RE)
 ViPER4Android FX with [Material 3 Expressive](https://m3.material.io/blog/building-with-m3-expressive) design with improvements and more features.
 
